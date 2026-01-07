@@ -1,0 +1,13 @@
+{
+  "name": "FinAnalysis AI",
+  "short_name": "FinAI AO",
+  "description": "Gestão Financeira e Contábil Angolana com IA Integrada.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#10b981",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
